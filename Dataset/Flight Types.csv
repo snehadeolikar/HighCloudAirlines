@@ -1,0 +1,5 @@
+﻿%Datasource ID,Flight Type
+DF,"Domestic, Foreign Carriers"
+DU,"Domestic, US Carriers Only"
+IF,"International, Foreign Carriers"
+IU,"International, US Carriers Only"
