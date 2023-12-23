@@ -7,8 +7,7 @@
 <h4>To understand Load Factor of HighCloud Airlines , I have created Tableau dashborad, Power Bi and Excel </h4>
 Link: <a href="https://public.tableau.com/app/profile/sneha.deolikar/viz/P305AirlinesDashboardbackup/Dashboard1?publish=yes"</a>
 <h1>Screenshot</h1>
-<img src="Airline_dash_![Airline_dash_1](https://github.com/snehadeolikar/HighCloudAirlines/assets/106811325/8d4bb784-5f0c-413f-9e5e-4efb3aea467f)
-3.jpg"><br/>
+<img src="![Airline_dash_1](https://github.com/snehadeolikar/HighCloudAirlines/Images/Airline_dash_1.jpg)">
 <h1>Observation</h1>
 <ol>
 <li>Yearly Load factor observation, in 2013 its increasing ,2008 its decreasing and in 2010,2011,2012 its stable. Month wise July has highest load factor and quarter wise July, august, September i.e. Q3 increased the load factor. </li>
