@@ -39,9 +39,11 @@ Link: [Tableau Project Link](https://public.tableau.com/app/profile/sneha.deolik
   <li>Merge or Join Multiple Table </li>
   <li>Used Calculated field for formulas with various condition</li>
   <li>Used the Filters</li>
-  <li>creating set</li>
   <li>Used Varies Charts pie chart,bubble chart,heat map</li>
-  <li>Using dual axis create clustered chart</li>
+  <li>Excel: Power Query To clean Data, Pivote Table, Adding Multiple Column with Formula , Macros , Use Drop-down list added</li>
+  <li>Tableau :Using dual axis create Funnel chart,creating Group,creating set, Dynamic Zonning,Calculated Field</li>
+  <li>Power Bi : Uses DAX , creating Group , BookMark ,Page Navigation</li>
+  <li>MySQL: Working of DML Query, DDL and Stored Procedure, Rank</li>
 </ul>
 
 
